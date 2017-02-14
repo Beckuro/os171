@@ -1,0 +1,3 @@
+# Satria Bagus W
+Last week we learn about how to create repo in github and connect to a server
+via SSH.
