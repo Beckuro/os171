@@ -1,0 +1,10 @@
+w01-170214-13-LR-About: Learn about HKI and introduction to CLI , From : Class
+w01-170214-14-LR-About: Learn about HKI and introduction to CLI , From : Class
+w01-170214-15-LR-About: Learn about HKI and introduction to CLI , From : Class
+w01-170214-19-PS-About: Github Learning and Doing week01 task
+w01-170214-20-LR-Readingt: Learn about loop in bash script , From: https://www.cyberciti.biz/faq/bash-for-loop/
+w01-170214-21-LR-About: Learn about conditional in bash , From: http://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
+w01-170215-22-PS-About: Create script to auto generate folder
+w01-170216-13-PS-About: Praticing bash script in class
+w01-170216-14-PS-About: Praticing bash script in class
+
