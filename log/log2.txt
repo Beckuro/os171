@@ -1,0 +1,7 @@
+w02-170221-13-LR-About: Learn about introduction to Security, From : Class
+w02-170221-14-LR-About: Learn about introduction to Security,  From : Class
+w02-170221-15-LR-About: Learn about introduction to Security, From : Class
+w02-170223-13-LR-Readingt: Intro to C programming From Class
+w02-170223-14-LR-Readingt: Intro to C programming From Class
+w02-170223-15-LR-Readingt: Intro to C programming From Class
+w02-170223-19-PS-About: Intro to security and c programming and Doing week02 task
