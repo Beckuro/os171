@@ -1,0 +1,9 @@
+w04-170307-13-LR-About: Learn about introduction to pointer in c, From : Class
+w04-170307-14-LR-About: Learn about introduction to pointer in c, From : Class
+w04-170307-15-LR-About: Learn about introduction to pointer in c, From : Class
+w04-170309-13-LR-About: Exercises about C pointer in Class
+w04-170309-14-LR-About: Exercises about C pointer in Class
+w04-170309-15-LR-About: Exercises about C pointer in Class
+w04-170308-07-PS-About: Doing week04 task
+w04-170308-08-PS-About: Doing week04 task
+w04-170308-09-PS-About: Doing week04 task
