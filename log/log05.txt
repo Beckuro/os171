@@ -1,9 +1,9 @@
-w04-170314-13-LR-About: Learn about Paging , Page Table, From : class
-w04-170314-14-LR-About: Learn about Paging , Page Table, From : class
-w04-170314-15-LR-About: Learn about Paging , Page Table, From : class
-w04-170316-13-LR-About: Exercises about Page Table
-w04-170316-14-LR-About: Exercises about Page Table
-w04-170316-15-LR-About: Exercises about Page Table
-w04-170318-06-PS-About: Doing week05 task
-w04-170318-10-PS-About: Doing week05 task
-w04-170318-11-PS-About: Doing week05 task
+w05-170314-13-LR-About: Learn about Paging , Page Table, From : class
+w05-170314-14-LR-About: Learn about Paging , Page Table, From : class
+w05-170314-15-LR-About: Learn about Paging , Page Table, From : class
+w05-170316-13-LR-About: Exercises about Page Table
+w05-170316-14-LR-About: Exercises about Page Table
+w05-170316-15-LR-About: Exercises about Page Table
+w05-170318-06-PS-About: Doing week05 task
+w05-170318-10-PS-About: Doing week05 task
+w05-170318-11-PS-About: Doing week05 task
