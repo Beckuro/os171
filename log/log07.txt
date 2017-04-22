@@ -1,0 +1,10 @@
+w07-170418-13-LR-About: Learn about Processes Synchronization
+w07-170418-14-LR-About: Learn about Processes Synchronization
+w07-170418-15-LR-About: Learn about Processes Synchronization
+w07-170420-13-LR-About: Exercises Semaphore, Mutex
+w07-170420-14-LR-About: Exercises Semaphore, Mutex
+w07-170420-15-LR-About: Exercises Semaphore, Mutex
+w07-170420-16-LR-About: Exercises Semaphore, Mutex
+w07-170422-11-PS-About: Doing week07 task
+w07-170422-12-PS-About: Doing week07 task
+w07-170422-13-PS-About: Doing week07 task
