@@ -1,0 +1,10 @@
+w08-170425-13-LR-About: Learn about Scheduling Algorithm
+w08-170425-14-LR-About: Learn about Scheduling Algorithm
+w08-170425-15-LR-About: Learn about Scheduling Algorithm
+w08-170427-13-LR-About: Exercises Scheduling
+w08-170427-14-LR-About: Exercises Scheduling
+w08-170427-15-LR-About: Exercises Scheduling
+w08-170427-16-LR-About: Exercises Scheduling
+w08-170428-10-PS-About: Doing week08 task
+w08-170428-11-PS-About: Doing week08 task
+w08-170428-12-PS-About: Doing week08 task
